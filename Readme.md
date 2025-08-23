@@ -1,9 +1,5 @@
 # Topic Modeling of Survey Responses: Unsupervised Learning With LDA
 
-## Author: Christian Lira Gonzalez  
-## Summer 2023  (Revised on March 2025)
-
-
 ## Quick Overview
 
 Introduction:
@@ -164,3 +160,4 @@ python src/statistical_analysis.py
 ---
 
 
+**Christian Lira Gonzalez - Summer 2023  (Revised on March 2025)**
