@@ -38,7 +38,7 @@ Value & Business Impact:
 By automating the text analysis process, businesses can make data-driven decisions more efficiently and focus on actionable insights instead of spending hours manually categorizing responses."*
 
 Conclusion:
-"This project demonstrates my ability to apply machine learning and natural language processing to real-world challenges. It showcases my skills in data preprocessing, topic modeling, sentiment analysis, and statistical validation—all of which are crucial for roles in data science, business intelligence, and analytics."
+"This project demonstrates my ability to apply machine learning and natural language processing to real-world challenges. It showcases my skills in data preprocessing, topic modeling, sentiment analysis, and statistical validation—all of which are crucial for roles in data science, business intelligence, and analytics".
 
 
 ---
